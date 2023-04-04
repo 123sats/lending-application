@@ -1,0 +1,20 @@
+{
+  "short_name": "P2PFinance",
+  "name": "P2PFinance | P2P Loan Platform",
+  "icons": [
+    {
+      "src": "logo.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "logo_.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#8400ffa7",
+  "background_color": "#8400ffa7"
+}

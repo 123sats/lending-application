@@ -1,0 +1,4 @@
+.reach/
+.mypy_cache/
+.vscode/
+test_index.rsh
